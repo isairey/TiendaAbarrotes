@@ -289,6 +289,9 @@ Ver si es necesario si no ni para que
 - [ ] Paquete
 
 ## Autor
+<div align="center">
+  ![Isai Reyes](https://avatars.githubusercontent.com/isairey/isairey?v=4 =200x200)
+</div>
 **Isai Reyes**  
 [GitHub](https://github.com/isairey) | [LinkedIn](https://www.linkedin.com/in/isai-reyes-pe%C3%B1a-a13a06329/)
 
