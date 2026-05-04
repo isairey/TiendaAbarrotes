@@ -236,8 +236,8 @@ jdbc.driverClassName=com.mysql.cj.jdbc.Driver
 ## Pasos para Ejecutar el Proyecto
 1. Clona el repositorio o descarga el código fuente.
    ```bash
-   git clone https://github.com/tu-usuario/ProjectAbarrotes.git
-   cd ProjectAbarrotes
+   git clone https://github.com/isairey/TiendaAbarrotes.git
+   cd TiendaAbarrotes
    ```
 
 2. Configura la base de datos en `src/main/resources/database.properties`.
