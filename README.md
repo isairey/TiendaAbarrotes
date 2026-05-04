@@ -289,8 +289,8 @@ Ver si es necesario si no ni para que
 - [ ] Paquete
 
 ## Autor
-**Dante Alegría**  
-[GitHub](https://github.com/tu-usuario) | [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+**Isai Reyes**  
+[GitHub](https://github.com/isairey) | [LinkedIn](https://www.linkedin.com/in/isai-reyes-pe%C3%B1a-a13a06329/)
 
 ---
 
